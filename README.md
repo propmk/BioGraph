@@ -1,2 +1,2 @@
-# NSAC25
+# BioGraph
 Space Biology Knowledge Engine
