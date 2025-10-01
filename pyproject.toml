@@ -4,4 +4,10 @@ version = "0.1.0"
 description = "Space Biology Knowledge Engine"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "google-genai>=1.39.1",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.1.1",
+    "scikit-learn>=1.7.2",
+    "streamlit>=1.50.0",
+]
