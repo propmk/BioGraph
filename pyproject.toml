@@ -1,0 +1,7 @@
+[project]
+name = "biograph"
+version = "0.1.0"
+description = "Space Biology Knowledge Engine"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
