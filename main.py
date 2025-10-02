@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from dotenv import load_dotenv
 import streamlit as st
 from google import genai
-
+import altair as alt
 
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
@@ -85,6 +85,21 @@ if st.button("Ask") and query.strip():
     st.subheader("References")
     for t, u, s in refs:
         st.markdown(f"- [{t}]({u}) (score={s:.3f})")
+
+
+    scores_df = pd.DataFrame(refs, columns=["Title", "URL", "Score"])
+    scores_df = scores_df.sort_values("Score", ascending=False)
+
+
+    chart = alt.Chart(scores_df).mark_bar().encode(
+    x=alt.X("Score:Q", title="Confidence Score", axis=alt.Axis(format='%')),
+    y=alt.Y("Title:N", sort="-x", title="Reference"),
+    tooltip=["Title", alt.Tooltip("Score", title="Score (%)", format=".0f")]  
+    ).properties(height=300, width=700)
+
+
+    st.subheader("Confidence Scores")
+    st.altair_chart(chart)
 
 
 st.markdown(
