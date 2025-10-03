@@ -3,14 +3,14 @@
 BioGraph is an advanced **Space Biology Knowledge Engine** designed to provide efficient, reliable, and cost-friendly insights in the specialized field of **space biology**.  
 
 Unlike general purpose AI systems, BioGraph is built exclusively on **NASA’s research and data**, ensuring that every response is **authentic, transparent, and scientifically validated**.  
-This approach eliminates misinformation and guarantees research integrity, making BioGraph a trusted companion for **scientists, students, and space enthusiasts**.
+This approach eliminates misinformation and guarantees research integrity, making BioGraph a trusted companion for **scientists, students and space enthusiasts**.
 
 ---
 
 ## ✨ Key Features
 
 - **🌌 NASA Verified Knowledge Base** – All responses are generated solely from NASA’s official data and research.  
-- **📑 Concise Scientific Summaries** – Short, focused, and easy-to-understand answers without unnecessary complexity.  
+- **📑 Concise Scientific Summaries** – Short, focused and easy to understand answers without unnecessary complexity.  
 - **🔗 Source Transparency** – Each response includes direct references to original NASA sources for traceability.  
 - **📊 Confidence Scoring** – Every answer is paired with a confidence score, visually represented in a graph.  
 - **⚖️ Honest Limitations** – If no relevant information exists, BioGraph communicates this clearly instead of fabricating answers.  
@@ -20,7 +20,7 @@ This approach eliminates misinformation and guarantees research integrity, makin
 ## 🎯 Project Goal
 
 The goal of **BioGraph** is to create a **trustworthy AI assistant** that supports discovery and learning in space biology.  
-By bridging artificial intelligence with NASA’s extensive research, BioGraph empowers researchers, educators, and enthusiasts to explore how biological systems interact with the **unique challenges of space exploration**.  
+By bridging artificial intelligence with NASA’s extensive research, BioGraph empowers researchers, educators and enthusiasts to explore how biological systems interact with the **unique challenges of space exploration**.  
 
 ---
 
@@ -44,9 +44,10 @@ By bridging artificial intelligence with NASA’s extensive research, BioGraph e
 
 ## 🚧 Roadmap
 
-- [ ] Add interactive 3D visualization for biological simulations  
-- [ ] Expand dataset coverage across more NASA repositories  
+- [ ] Expand dataset coverage across more NASA repositories
 - [ ] Integrate educational modules for classroom use
+- [ ] Add interactive 3D visualization for biological simulations  
+
 
 ---
 
