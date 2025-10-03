@@ -9,11 +9,11 @@ This approach eliminates misinformation and guarantees research integrity, makin
 
 ## ✨ Key Features
 
-- ** NASA Verified Knowledge Base** – All responses are generated solely from NASA’s official data and research.  
-- ** Concise Scientific Summaries** – Short, focused and easy to understand answers without unnecessary complexity.  
-- ** Source Transparency** – Each response includes direct references to original NASA sources for traceability.  
-- ** Confidence Scoring** – Every answer is paired with a confidence score, visually represented in a graph.  
-- ** Honest Limitations** – If no relevant information exists, BioGraph communicates this clearly instead of fabricating answers.  
+- NASA Verified Knowledge Base: All responses are generated solely from NASA’s official data and research.  
+- Concise Scientific Summaries: Short, focused and easy to understand answers without unnecessary complexity.  
+- Source Transparency: Each response includes direct references to original NASA sources for traceability.  
+- Confidence Scoring: Every answer is paired with a confidence score, visually represented in a graph.  
+- Honest Limitations: If no relevant information exists, BioGraph communicates this clearly instead of fabricating answers.  
 
 ---
 
