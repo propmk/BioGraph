@@ -9,11 +9,11 @@ This approach eliminates misinformation and guarantees research integrity, makin
 
 ## ✨ Key Features
 
-- **🌌 NASA Verified Knowledge Base** – All responses are generated solely from NASA’s official data and research.  
-- **📑 Concise Scientific Summaries** – Short, focused and easy to understand answers without unnecessary complexity.  
-- **🔗 Source Transparency** – Each response includes direct references to original NASA sources for traceability.  
-- **📊 Confidence Scoring** – Every answer is paired with a confidence score, visually represented in a graph.  
-- **⚖️ Honest Limitations** – If no relevant information exists, BioGraph communicates this clearly instead of fabricating answers.  
+- ** NASA Verified Knowledge Base** – All responses are generated solely from NASA’s official data and research.  
+- ** Concise Scientific Summaries** – Short, focused and easy to understand answers without unnecessary complexity.  
+- ** Source Transparency** – Each response includes direct references to original NASA sources for traceability.  
+- ** Confidence Scoring** – Every answer is paired with a confidence score, visually represented in a graph.  
+- ** Honest Limitations** – If no relevant information exists, BioGraph communicates this clearly instead of fabricating answers.  
 
 ---
 
@@ -51,13 +51,6 @@ By bridging artificial intelligence with NASA’s extensive research, BioGraph e
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! 🎉  
-If you’d like to improve BioGraph, please **fork** this repo and submit a pull request.  
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
@@ -71,5 +64,11 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - Streamlit – for making interactive apps simple and elegant  
 
 ---
+
+## 🤝 Contributing
+
+Contributions are welcome. If you’d like to improve BioGraph, please **fork** this repo and submit a pull request.  
+
+
 
 🔭 *BioGraph: Shaping the future of space biology, one insight at a time.*
