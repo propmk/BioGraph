@@ -1,5 +1,4 @@
-# BioGraph
-##Space Biology Knowledge Engine
+# BioGraph: A Space Biology Knowledge Engine
 
 BioGraph is an advanced Space Biology Knowledge Engine designed to provide efficient, reliable, and cost friendly insights in the specialized field of space biology.
 
