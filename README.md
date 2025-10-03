@@ -33,14 +33,6 @@ By bridging artificial intelligence with NASA’s extensive research, BioGraph e
 
 ---
 
-## 📸 Demo Screenshot
-.
-.
-.
-
-
-
----
 
 ## 🚧 Roadmap
 
