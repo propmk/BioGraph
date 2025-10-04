@@ -15,6 +15,21 @@ This approach eliminates misinformation and guarantees research integrity, makin
 - Honest Limitations: If no relevant information exists, BioGraph communicates this clearly instead of fabricating answers.  
 
 
+## Demonstration
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/propmk/BioGraph/main/assets/BioGraph-screenshot-0.png" alt="Intro Image" width="1000">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/propmk/BioGraph/main/assets/BioGraph-screenshot-1.png" alt="Intro Image" width="1000">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/propmk/BioGraph/main/assets/BioGraph-screenshot-2.png" alt="Intro Image" width="1000">
+</p>
+
+
 ## 🎯 Project Goal
 
 The goal of **BioGraph** is to create a **trustworthy AI assistant** that supports discovery and learning in space biology.  
