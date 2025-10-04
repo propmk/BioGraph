@@ -66,4 +66,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 
-🔭 *BioGraph: Shaping the future of space biology, one insight at a time.*
+## Packets of data form a story.
+## BioGraph, A story to tell.
