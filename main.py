@@ -105,11 +105,8 @@ if st.button("Ask") and query.strip():
 st.markdown(
     """
     <style>
-    /* Hide hamburger menu */
     #MainMenu {visibility: hidden;}
-    /* Hide footer ("Made with Streamlit") */
     footer {visibility: hidden;}
-    /* Hide header (optional) */
     header {visibility: hidden;}
     </style>
     """,
