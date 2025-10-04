@@ -24,7 +24,7 @@ By bridging artificial intelligence with NASA’s extensive research, BioGraph e
 ## 🛠️ Tech Stack
 
 - **Frontend:** Streamlit + Altair (for interactive visualizations)  
-- **Backend:** Python, Pandas, NumPy, dotenv  
+- **Backend:** Python, Pandas, NumPy
 - **AI:** Google Gemini API  
 - **Data Source:** NASA official research & datasets  
 
