@@ -65,6 +65,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-
-## Packets of data form a story.
-## BioGraph, A story to tell.
+<p align="center">
+  <em>Packets of data form a story.</em><br>
+  <strong>BioGraph — A story to tell.</strong>
+</p>
