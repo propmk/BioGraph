@@ -34,7 +34,6 @@ By bridging artificial intelligence with NASA’s extensive research, BioGraph e
 
 - [ ] Expand dataset coverage across more NASA repositories
 - [ ] Integrate educational modules for classroom use
-- [ ] Add interactive 3D visualization for biological simulations  
 
 
 
