@@ -67,5 +67,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 <p align="center">
   <em>Packets of data form a story.</em><br>
-  <em>BioGraph, a story to tell.</strong>
+  <em>BioGraph, a story to tell.</em>
 </p>
